@@ -12,7 +12,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
 [params]
-    author = "CowboySmall"
+    author = "Le Trung"
     description = "DevResume - Bootstrap 4 Resume/CV Template For Software Developers"
 
 
@@ -23,9 +23,9 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.profile]
         enable = true
-        name = "Simon Doe"
-        tagline = "Senior Software Engineer"
-        avatar = "avatar.png"
+        name = "Le Trung"
+        tagline = "Junior Software Engineer"
+        avatar = "trung.png"
 
 
 
@@ -35,23 +35,23 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.contact]
         enable = true
-        location = "New York"
+        location = "Viet nam"
 
         [[params.contact.list]]
         style = "fas"
         icon = "fa-phone-square"
         url = "tel:#"
-        text = "0123 4567 890"
+        text = "0358584798"
         [[params.contact.list]]
         style = "fas"
         icon = "fa-envelope-square"
         url = "mailto:#"
-        text = "simon.doe@yourwebsite.com"
+        text = "letrungbn1996@gmail.com"
         [[params.contact.list]]
         style = "fas"
         icon = "fa-globe"
         url = "#"
-        text = "www.yourwebsite.com"
+        text = "Lê Trung"
 
 
 
@@ -63,21 +63,17 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.skills.list]]
-        title = "Technical"
+        title = "Engineer Software"
         [[params.skills.list.items]]
-        details = "JavaScript/Angular/React/Vue"
+        details = "JavaScript/React/Vue/Jquery"
         [[params.skills.list.items]]
-        details = "Python/Ruby/PHP"
+        details = "Node.js"
         [[params.skills.list.items]]
-        details = "Node.js/ASP.NET"
-        [[params.skills.list.items]]
-        details = "PostgreSQL/MySQL"
+        details = "MySQL/MSSQL/Oracle/MongoDB"
         [[params.skills.list.items]]
         details = "Object-oriented design"
         [[params.skills.list.items]]
         details = "Design and implement database structures"
-        [[params.skills.list.items]]
-        details = "Lead and deliver complex software systems"
 
         [[params.skills.list]]
         title = "Professional"
@@ -86,9 +82,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list.items]]
         details = "Team player"
         [[params.skills.list.items]]
-        details = "Strong problem solver"
-        [[params.skills.list.items]]
-        details = "Good time management"
+        details = "Play football well"
 
 
 
@@ -101,13 +95,9 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.education.list]]
-        degree = "MSc in Computer Science"
-        university = "University College London"
-        dates = "2010 - 2011"
-        [[params.education.list]]
-        degree = "BSc Maths and Physics"
-        university = "Imperial College London"
-        dates = "2007 - 2010"
+        degree = "Engineer information techology"
+        university = "University of Transport Techology"
+        dates = "2014 - 2016"
 
 
 
@@ -117,7 +107,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
     [params.awards]
-        enable = true
+        enable = false
 
         [[params.awards.list]]
         name = "Award Lorem Ipsum"
@@ -139,10 +129,10 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.languages.list]]
-        name = "English"
+        name = "Vietnamese"
         level = "Native"
         [[params.languages.list]]
-        name = "Spanish"
+        name = "English"
         level = "Professional"
 
 
@@ -156,13 +146,13 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.interests.list]]
-        name = "Climbing"
+        name = "Football"
         [[params.interests.list]]
-        name = "Snowboarding"
+        name = "Shuttlecook knicking"
         [[params.interests.list]]
-        name = "Photography"
+        name = "Swimming"
         [[params.interests.list]]
-        name = "Travelling"
+        name = "Play game"
 
 
 
@@ -186,9 +176,9 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.experience.list]]
-        title = "Senior Software Engineer"
-        dates = "2019 - Present"
-        company = "Google"
+        title = "Junior Software Engineer"
+        dates = "2018 - Present"
+        company = "IFI SOLUTION"
         details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis."
         [[params.experience.list.items]]
         heading = "First"
